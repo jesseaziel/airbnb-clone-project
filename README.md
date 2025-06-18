@@ -53,22 +53,22 @@ Key Entities include;
     Time
 
 # Feature Breakdown
-- User Management
+- User Management;
     Users shall be able to sign up to the platform and create profiles to track preferences, booking history and payments.
     Users shall also be able to log in securely with proper authentication to boost security.
 
-- Property Management
+- Property Management;
     Managers shall be able to create new property listings and delete old ones.
     Users shall also see available bookings in their area.
 
-- Booking System
+- Booking System;
     Users shall see which properties are available at a given time.
     Users shall be able to select properties they intend to rent out including duration.
     They shall also be able to leave reviews and ratings for the hotels.
     Managers shall recieve notifications for desired hotels.
     They shall also be able to communicate the availability of the hotels.
 
-- Payments
+- Payments;
     An API shall be evoked to track and handle user payments securely.
     Managers and Users shall be notified whenever payments are made.
 
