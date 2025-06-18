@@ -2,7 +2,7 @@
 
 Welcome to the Airbnb clone. This is an application that simulates the features of a hotel booking platform.
 
-# Tech Stack
+# Technology Stack
 - Django for api creation
 - APIs to handle payments
 - Database Management Systems (MySQL, PostgreSQL)
