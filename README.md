@@ -22,34 +22,34 @@ This application should;
 # Database Design
 
 Key Entities include;
-- Customers
-    Name
-    CustomerId
+- Customer
+    Fields include; CustomerName,
+    CustomerId,
     BookingHistory
 
 - Hotel Manager
-    Name
-    ManagerId
+    Fields include; ManagerName,
+    ManagerId,
     Rating
 
 - Property Listings
-    PropertyName
-    PropertyId
+    Fields include; PropertyName,
+    PropertyId,
     Availability
 
 - Bookings
-    HotelId
-    HotelName
+    Fields include; HotelId,
+    HotelName,
     Location
 
 - Reviews
-    ReviewId
-    Rating
+    Fields include; ReviewId,
+    Rating,
     RatingId
 
 - Payments
-    PaymentHistory
-    PaymentId
+    Fields include; PaymentHistory,
+    PaymentId,
     Time
 
 # Team Roles
