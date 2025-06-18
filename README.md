@@ -72,6 +72,33 @@ Key Entities include;
     An API shall be evoked to track and handle user payments securely.
     Managers and Users shall be notified whenever payments are made.
 
+# API Security
+- Rate Limiting
+    Information such as IP addresses are used to track the traffic requesting for data and limit access to resources saving
+    compute power/resources, for example a user wanting to access bank details trying to login  more than 3 times being 
+    denied access for a period of time. This can help prevent issues like DOS attacks.
+
+- Authentication
+    Secure APIs are built to grant access specifically to people who are entitled to that information. 
+
+- Encryption
+    Strong APIs prevent information from being inserted/updated from attacks such as "man in the middle attacks". 
+    Bad actors cannot intercept/leak valuable sensitive information.
+
+- Input validation
+    Strong APIs ensure ONLY people that provide the right login details can access information, keeping bad actors out.
+
+- Monitoring
+    Strong APIs provide network monitoring tools that enable developers to track traffic and detect unusual access. This can
+    enable them to avoid attacks such as DOS attacks.
+
+API Security is necessary because with the advancement of technology and the digital transformation in most companies, sensitive data
+has to be kept secure. It would hurt the company's reputation and trust from clients if valuable information is compromised by bad actors.
+If an unsafe API is used in managing user payments, bad actors could take advantage and steal valuable data and millions of dollars could be
+lost.
+Safe authentication to grant access to sensitive data, and encryption to keep the data safe, preventing packet sniffers/men in the middle from
+accessing sensitive information boosts the company's credibility and reputation in the public space, building trust with clients.
+
 # Team Roles
 *According to ITRex Group Blog
 1. Business Analyst
