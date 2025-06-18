@@ -99,6 +99,16 @@ lost.
 Safe authentication to grant access to sensitive data, and encryption to keep the data safe, preventing packet sniffers/men in the middle from
 accessing sensitive information boosts the company's credibility and reputation in the public space, building trust with clients.
 
+# CI/CD Pipeline
+CI/CD Pipelines are crucial in modern software development. They help developers bridge the gap between testing and deployment, allowing
+for us to frequently integrate and deploy new features into production.
+
+Mostly conducted by DevOps teams, tools like Docker allow us to deploy new features and test to a section of the public through beta tests among others. 
+
+GitHub Actions allows developers to automate deployment pipelines and other tools enable monitoring of performance and tracking networking systems, ensuring the application runs smoothly in deployment environments.
+
+Most of these actions are conducted by DevOps teams.
+
 # Team Roles
 *According to ITRex Group Blog
 1. Business Analyst
