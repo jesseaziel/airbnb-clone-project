@@ -19,6 +19,39 @@ This application should;
 - update available bookings
 - deletion of unavailable properties
 
+# Database Design
+
+Key Entities include;
+- Customers
+    Name
+    CustomerId
+    BookingHistory
+
+- Hotel Manager
+    Name
+    ManagerId
+    Rating
+
+- Property Listings
+    PropertyName
+    PropertyId
+    Availability
+
+- Bookings
+    HotelId
+    HotelName
+    Location
+
+- Reviews
+    ReviewId
+    Rating
+    RatingId
+
+- Payments
+    PaymentHistory
+    PaymentId
+    Time
+
 # Team Roles
 *According to ITRex Group Blog
 1. Business Analyst
