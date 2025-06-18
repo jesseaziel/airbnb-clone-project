@@ -12,11 +12,14 @@ Welcome to the Airbnb clone. This is an application that simulates the features 
 # Tasks
 
 This application should;
-    - handle user profile creation and management
-    - user authentication
-    - allow users to view available listings
-    - allow users to pay using a safe payment method
-    - update available bookings
-    - deletion of unavailable properties
+- handle user profile creation and management
+- user authentication
+- allow users to view available listings
+- allow users to pay using a safe payment method
+- update available bookings
+- deletion of unavailable properties
+
+# Team Roles
+
 
 Thank you.
